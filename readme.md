@@ -2,7 +2,7 @@
 
 I want to take the next few minutes to explain the concept of Lambda not only in programming but in mathematics, I believe this is the correct starting point if you want to understand what lambda is.
 
-#Lambda in Maths#
+#RRGGBB Lambda in Maths
 
 Let us start by definning what Lambda is in Mathematics first, then we will move on explaining the same concept in three different languages: 
 
