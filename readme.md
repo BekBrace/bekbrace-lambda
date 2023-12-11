@@ -2,7 +2,7 @@
 
 I want to take the next few minutes to explain the concept of Lambda not only in programming but in mathematics, I believe this is the correct starting point if you want to understand what lambda is.
 
-_Lambda in Maths
+## Lambda in Maths
 
 Let us start by definning what Lambda is in Mathematics first, then we will move on explaining the same concept in three different languages: 
 
@@ -77,7 +77,7 @@ There are other reasons, but I don't want this video to take too long, in short 
 
 Now let's jump to our first language and see Lambda in action.
 
-#Python.
+## Python.
 
 In Python, lambda is used to create anonymous functions, 
 
@@ -116,7 +116,7 @@ that performs the same operation as the named function add.
 It takes two arguments, x and y, and returns their sum.
 
 
-#Haskell
+## Haskell
 
 In Haskell,lambda expressions are used to create anonymous functions. 
 
@@ -153,7 +153,7 @@ In this Haskell example, addLambda is a function created using a lambda expressi
 
 The lambda expression \x y -> x + y represents a function that takes two arguments (x and y) and returns their sum.
 
-#Finally JavaScript
+## Finally JavaScript
 In JavaScript, lambda functions are commonly referred to as "arrow functions." 
 
 They were introduced in ECMAScript 6 (ES6) and provide a concise syntax for writing anonymous functions. 
