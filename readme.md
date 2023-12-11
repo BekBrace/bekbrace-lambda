@@ -40,7 +40,7 @@ For example, applying the function to 3 and 4:
 
 This lambda expression can be read as: 
 
-##"a function that takes two arguments x and y and returns the result of adding them."##
+>"a function that takes two arguments x and y and returns the result of adding them."
 
 ********************************************************************
 
