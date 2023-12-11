@@ -18,11 +18,11 @@ This means that this function represents a variable that stands
 
 for an arbitrary element or an unknown quantity. 
 
-The lambda symbol (λ) is used to denote anonymous functions. 
+The lambda symbol ***(λ)*** is used to denote anonymous functions. 
 
 Let's look at a simple example:
 
-λx.λy.x+y
+***λx.λy.x+y***
 
 λ denotes the beginning of a lambda abstraction.
 
@@ -34,17 +34,13 @@ To apply this function to specific values, we use lambda application.
 
 For example, applying the function to 3 and 4:
 
-(λx.λy.x+y) 3 4
+***(λx.λy.x+y) 3 4***
 
-(λx.λy.x+y) is the function, and 
-
-3 and 4 are the arguments. The result of this application is 3+4=7.
+***(λx.λy.x+y)*** is the function, and  3 and 4 are the arguments. The result of this application is 3+4=7.
 
 This lambda expression can be read as: 
 
-"a function that takes two arguments x and y and returns 
-
-the result of adding them."
+##"a function that takes two arguments x and y and returns the result of adding them."##
 
 ********************************************************************
 
