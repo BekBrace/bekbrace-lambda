@@ -24,11 +24,11 @@ Let's look at a simple example:
 
 ***λx.λy.x+y***
 
-λ denotes the beginning of a lambda abstraction.
+1) λ denotes the beginning of a lambda abstraction.
 
-x and y are the parameters of the function.
+2) x and y are the parameters of the function.
 
-x+y is the body of the function, representing the addition of x and y
+3) x+y is the body of the function, representing the addition of x and y
 
 To apply this function to specific values, we use lambda application. 
 
